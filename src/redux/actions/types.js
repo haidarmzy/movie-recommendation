@@ -1,0 +1,15 @@
+export const LOGGED_IN = 'auth/LOGGED_IN';
+export const LOGGED_OUT = 'auth/LOGGED_OUT';
+
+export const ADD_PLACE = 'ADD_PLACE';
+export const GET_POPULAR_MOVIE = 'GET_POPULAR_MOVIE';
+export const GET_GENRE = 'GET_GENRE';
+export const GET_MOVIE_DETAILS = 'GET_MOVIE_DETAILS';
+export const ADD_CONVERTED_GENRE = 'ADD_CONVERTED_GENRE';
+
+export const GET_TV_SHOW = 'GET_TV_SHOW';
+export const GET_NOW_PLAYING_TV_SHOW = 'GET_NOW_PLAYING_TV_SHOW';
+export const GET_TOP_RATED_TV_SHOW = 'GET_TOP_RATED_TV_SHOW';
+export const GET_TV_SHOW_GENRE = 'GET_TV_SHOW_GENRE';
+export const GET_TV_SHOW_DETAIL = 'GET_TV_SHOW_DETAIL';
+export const GET_SEASON_DETAIL = 'GET_SEASON_DETAIL';
